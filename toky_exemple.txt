@@ -1,1 +1,12 @@
 Hello word!
+
+pour vérifier les fichiers modifiés:
+git status
+
+pour envoyer dans l'étape "staged" les fichiers
+git commit -a -m "commentaire à saisir"
+
+
+pour envoyer dans github
+git push origin main
+
